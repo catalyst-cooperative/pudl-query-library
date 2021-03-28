@@ -21,4 +21,4 @@ WHERE
 GROUP BY
   income.respondent_id, income.report_year
 ORDER BY
-  political_spending DESC;
+  political_spending DESC
